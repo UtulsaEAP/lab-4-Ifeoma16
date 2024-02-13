@@ -1,3 +1,8 @@
+'''
+Name: Ifeoma Ogwu
+Lab time: Thursday, 2pm - 3:15pm
+'''
+
 def driving_cost(miles_per_gallon, dollars_per_gallon, miles_driven):
    #write your code here
     cost = format(((miles_driven/(miles_per_gallon))*dollars_per_gallon), ".2f")
